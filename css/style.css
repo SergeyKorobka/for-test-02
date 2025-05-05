@@ -131,10 +131,7 @@ button {
   background-color: #fff;
 }
 
-.team-subtitle {
-  text-align: center;
-}
-
+.team-subtitle,
 .team-text {
   text-align: center;
 }
